@@ -1,3 +1,3 @@
 # Jaemin's Notes
 ## Summary
-This repository contains all of the notes taken by Jaemin for the Lighthouse Labs Web Development Bootcamp
+This repository contains all of the notes taken by [Jaemin](https://github.com/xPuffball) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
